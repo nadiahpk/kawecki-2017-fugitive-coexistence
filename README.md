@@ -1,7 +1,7 @@
-# Overview.
+# Overview
 
 This repository stores somes scripts for simulating examples from Kawecki (2017; Ann. Zool. Fennici).
-Please see ['this blog post'](https://nadiah.org "nadiah.org") for details.
+Please see [this blog post](https://nadiah.org/2019/08/09/playing-with-a-new-model-for-fugitive-coexistence/ "nadiah.org") for details.
 
 # License
 
